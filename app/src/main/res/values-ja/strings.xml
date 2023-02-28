@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="label_username">ユーザー名</string>
+    <string name="label_password">パスワード</string>
+    <string name="btn_title_login">ログイン</string>
+    <string name="btn_title_signup">サインアップ</string>
+    <string name="btn_label_ok">Ok</string>
+    <string name="label_firstname">ファーストネーム</string>
+    <string name="label_lastname">苗字</string>
+    <string name="label_passwordconfirm">パスワードの確認</string>
+
+</resources>

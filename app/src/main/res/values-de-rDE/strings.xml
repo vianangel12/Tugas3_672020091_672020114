@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="label_username">Nutzername</string>
+    <string name="label_password">Passwort</string>
+    <string name="btn_title_login">Anmeldung</string>
+    <string name="btn_title_signup">Anmeldung</string>
+    <string name="btn_label_ok">Ok</string>
+    <string name="label_firstname">Vorname</string>
+    <string name="label_lastname">Nachname</string>
+    <string name="label_passwordconfirm">Passwort Bestätigung</string>
+
+</resources>
